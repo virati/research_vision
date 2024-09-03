@@ -8,10 +8,24 @@ We focus on _neuro_ domains, and are expanding into generalized _medical_ domain
 
 ## Antidepressant DBS
 * Limitations of Measurement
+  - [X] $Z_\Delta$ in MC
+  - [ ] RO Limitations
+  - [ ] PAC Design
+  - [ ] PAC-SINDy
 * Linking Brain and Behavior
+  - [ ] DR-SCC
+  - [ ] FS-DR-SCC
 * Linking Stim and Brain Response
+  - [ ] NA-SCCwm + SVM
+  - [ ] Large-scale Kmo Link
 * Linking Stim and Brain Dynamics
+  - [X] DO Intro + SINDy
+  - [ ] DO w/ Models (Delay, KMo, WC$\pm$Delay)
 
+## Bridging Big and Small Data
+* Big Data Approaches to Clinical Neuroscience - distilling invariants
+* Small Data Approaches to Clinical Neuroscience - reinforcing intuition
+* 
   
 ## Geometry of Delays
 * Delay Embeddings/Takens
