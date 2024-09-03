@@ -7,24 +7,25 @@ Ongoing Research Agenda
 * Linking Stim and Brain
 
   
-## Delays
+## Geometry of Delays
 * Delay Embeddings/Takens
 * Delay Circuits
 * Delay Differential Eqs
 * Geometry of Delay
 
 
-## Control Affine/Behavior
+## Control Affine on Behavior
 * Base Model for CA-DBS
 * Base Model for CA-Neuropsych
 * Geometry of Control
 
-## Reverse-Engineering
+## MPC + Reverse-Engineering
 * As an approach to inference
 * Small Data Inference
 * Implementing RE in Medicine
 
 ## Artificial Intelligence
 * Tools for Control Theory
-* Model Predictive Control
-* 
+* AI for Model Predictive Control
+* Affective AI
+* Emotion and Cognition
