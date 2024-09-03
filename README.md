@@ -25,14 +25,13 @@ We focus on _neuro_ domains, and are expanding into generalized _medical_ domain
 ## Bridging Big and Small Data
 * Big Data Approaches to Clinical Neuroscience - distilling invariants
 * Small Data Approaches to Clinical Neuroscience - reinforcing intuition
-* 
-  
+* Structure-Constrained Dynamics Predictions
+
 ## Geometry of Delays
 * Delay Embeddings/Takens
 * Delay Circuits
 * Delay Differential Eqs
 * Geometry of Delay
-
 
 ## Control Affine on Behavior
 * Base Model for CA-DBS
@@ -45,8 +44,8 @@ We focus on _neuro_ domains, and are expanding into generalized _medical_ domain
 * Small Data Inference
 * Implementing RE in Medicine
 
-## Artificial Intelligence
-* Tools for Control Theory
+## Emotion in AI
+* Tools for Control Theory in Affective DBS
 * AI for Model Predictive Control
 * Affective AI
 * Emotion and Cognition
