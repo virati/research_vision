@@ -2,7 +2,7 @@
 Ongoing Research Agenda for Tiruvadi Lab
 
 ## Overview
-This lab focuses on building _control theoretic frameworks_ across the full-stack of BioMedical systems.
+My lab focuses on building _control theoretic frameworks_ across the full-stack of BioMedical systems.
 We focus on _neuro_ domains, and are expanding into generalized _medical_ domains.
 
 
