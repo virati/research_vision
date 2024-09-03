@@ -4,7 +4,8 @@ Ongoing Research Agenda
 ## Antidepressant DBS
 * Limitations of Measurement
 * Linking Brain and Behavior
-* Linking Stim and Brain
+* Linking Stim and Brain Response
+* Linking Stim and Brain Dynamics
 
   
 ## Geometry of Delays
@@ -18,6 +19,7 @@ Ongoing Research Agenda
 * Base Model for CA-DBS
 * Base Model for CA-Neuropsych
 * Geometry of Control
+* MPC for DBS as Ctrl-Affine
 
 ## MPC + Reverse-Engineering
 * As an approach to inference
